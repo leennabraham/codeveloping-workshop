@@ -1,4 +1,4 @@
-`![our_image](images/pafter-issues.png)`
+![our_image](/images/after-issues.png)
 
 
 
